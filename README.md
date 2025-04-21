@@ -1,4 +1,4 @@
-# quant
+# Binance quant trading system
 
 This is a crypto quant trading system for binance Exchange
 

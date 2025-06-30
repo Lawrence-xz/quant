@@ -11,8 +11,8 @@ import login
 import threading
 
 # 用户配置
-API_KEY = 'TCZq0UChOAyfmACk4pOiPBWNEHAp5JT3GjWkymHxW1allGOrFMMMTp9JtBDTMjRN'
-API_SECRET = 'FrS1qCToiUxAWoAbCVlXFHN8R0bRMRQd1vZLIXO5Z17xrj8ynrDLDKzJBtGQe8DX'
+API_KEY = 'Make it yours '
+API_SECRET = 'Make it yours '
 
 client = login.login()
 # Settings

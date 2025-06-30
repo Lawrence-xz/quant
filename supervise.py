@@ -4,8 +4,8 @@ import websockets
 from datetime import datetime, timezone
 from binance.client import Client
 # 用户配置
-API_KEY = 'TCZq0UChOAyfmACk4pOiPBWNEHAp5JT3GjWkymHxW1allGOrFMMMTp9JtBDTMjRN'
-API_SECRET = 'FrS1qCToiUxAWoAbCVlXFHN8R0bRMRQd1vZLIXO5Z17xrj8ynrDLDKzJBtGQe8DX'
+API_KEY = 'Make it yours '
+API_SECRET = 'Make it yours '
 
 
 # def send_notification(order):

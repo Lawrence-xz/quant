@@ -2,12 +2,8 @@ from binance.client import Client
 
 
 def login():
-    api_key = 'TCZq0UChOAyfmACk4pOiPBWNEHAp5JT3GjWkymHxW1allGOrFMMMTp9JtBDTMjRN'
-    api_secret = 'FrS1qCToiUxAWoAbCVlXFHN8R0bRMRQd1vZLIXO5Z17xrj8ynrDLDKzJBtGQe8DX'
-    # api_key_second = 'BIDKZSCg5CVlvTuCQvSn2CnoU2d1OdPmAP9NnzR3jk40RjLFxbmLhHxVklC0j6N2'
-    # api_secret_second = 'D0ADRuHXsMFwURkU3rNuCqyTYJ4MprpOfYINpu1d4jHIcp95juUF1xxhmv9hg2dX'
-    # api_key_test = '3b6cf02793065b4cf2ee51083ced6ab6a04d04ce8c7a0b4bad61fb09faff02bb'
-    # api_secret_test = '29d3d35fd6dfad54664a4d704fd8f3ae22e0f052685afed09a6779c00d411ed7'
+    api_key = 'Make it yours'
+    api_secret = 'Make it yours'
     # 创建客户端
     # client = Client(api_key_test, api_secret_test, testnet=True)
     client = Client(api_key, api_secret)
